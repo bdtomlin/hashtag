@@ -8,6 +8,7 @@ gem 'rails', '3.2.11'
 gem 'sqlite3'
 gem 'high_voltage'
 gem 'haml'
+gem 'twitter'
 
 
 # Gems used only for assets and not required
